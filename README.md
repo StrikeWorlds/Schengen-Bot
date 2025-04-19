@@ -10,10 +10,10 @@ A simple Python tool that helps you quickly open visa application websites in Eg
 
 | No. | Website Name | Link |
 |:----|:-------------|:------|
-| 1️⃣ | **Almaviva** | [Visit Site](https://www.almaviva.com.eg) |
-| 2️⃣ | **VFS Global** | [Visit Site](https://www.vfsglobal.com) |
-| 3️⃣ | **TLScontact** | [Visit Site](https://www.tlscontact.com) |
-| 4️⃣ | **IOM Egypt** | [Visit Site](https://egypt.iom.int) |
+| 1️⃣ | **Almaviva** | [Visit Site](https://egy.almaviva-visa.it/) |
+| 2️⃣ | **VFS Global** | [Visit Site](https://visa.vfsglobal.com/egy/en/nld) |
+| 3️⃣ | **TLScontact** | [Visit Site](https://fr.tlscontact.com/visa/eg) |
+| 4️⃣ | **IOM Egypt** | [Visit Site](https://egypt.iom.int/) |
 
 ---
 
