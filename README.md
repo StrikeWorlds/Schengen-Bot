@@ -28,6 +28,7 @@ python Schengen.py
 Replace `Schengen.py` with the name of your script (e.g., `visa_helper.py`).
 
 ---
+[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/watch?v=N_X67nX9l0M) لمشاهدة البوت تابع
 
 ## 👨‍💻 Developer:
 
