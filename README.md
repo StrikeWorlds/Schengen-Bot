@@ -60,16 +60,16 @@ Feel free to fork this repo, suggest improvements, or contact me for custom vers
 ## ✨ Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Pegasusveli">
+  <a href="https://www.linkedin.com/in/Strikeworlds">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Pegasusveli">
+  <a href="https://github.com/Strikeworlds">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/Pegasusveli">
+  <a href="https://www.facebook.com/Strikeworlds">
     <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
-  <a href="https://buymeacoffee.com/Pegasusveli">
+  <a href="https://buymeacoffee.com/Strikeworlds">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" />
   </a>
 </div>
